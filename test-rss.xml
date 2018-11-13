@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="utf-8"?>
 <articles>
   <UUID>1542083062779</UUID>
@@ -822,7 +821,7 @@ Do gi&amp;aacute; trị kinh tế cao, hiện nhiều người d&amp;acirc;n nu&
     <startYmdtUnix>1542080401000</startYmdtUnix>
     <endYmdtUnix>1573616401000</endYmdtUnix>
     <title>6 thói quen xấu gây ảnh hưởng sức khỏe mùa lạnh, bạn mắc số mấy?</title>
-    <test</category>
+    <category>test</category>
     <publishTimeUnix>1542080401000</publishTimeUnix>
     <thumbnail>https://image1.khoahocdoisong.vn/2018/11/13/thumb00_060908940367248_543x305.jpg</thumbnail>
     <contents>
@@ -2109,7 +2108,7 @@ Cứ mỗi 30 giấy c&amp;oacute; 1 người bệnh đ&amp;aacute;i th&amp;aacu
     <startYmdtUnix>1542075001000</startYmdtUnix>
     <endYmdtUnix>1573611001000</endYmdtUnix>
     <title>Côn trùng – nguồn dinh dưỡng khổng lồ</title>
-    <test</category>
+    <category>test</category>
     <publishTimeUnix>1542075001000</publishTimeUnix>
     <thumbnail>https://image1.khoahocdoisong.vn/2018/11/13/con-trung.jpg</thumbnail>
     <contents>
